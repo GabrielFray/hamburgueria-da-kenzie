@@ -1,0 +1,9 @@
+@media (min-width: 1024px) {
+  .mainContent {
+    display: flex;
+    justify-content: space-around;
+
+    margin: 0 auto;
+    max-width: 87.5rem;
+  }
+}
