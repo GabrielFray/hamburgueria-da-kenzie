@@ -1,6 +1,7 @@
 import { ContentHeader, ContentInputButton } from "./styles";
 
 import burguerKenzieLogo from "../assets/burguerKenzieLogo.png";
+
 import search from "../assets/search.gif";
 
 const Header = ({ setFilteredProducts, products }) => {
